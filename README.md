@@ -1,7 +1,19 @@
 ## Greetings👋
 
+**Fresh Graduate || Web Developer || Software Engineer**
 
+Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:**  portfolio website, medium project.
+- 🌱 **I’m currently learning:** API, Bootstrap, a new backend + frontend frameworks.
+- 💬 **Ask me about:** Collaboration, Tech Support, job offers, interviews.
+- 📫 **How to reach me:** Email or call me.
+- ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, tech. beside that, I am master starcraft 2 player, also rank 1 in Jordan/rank 19 in EU in PUBG Mobile.
+<!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
+<!-- -🤔 **I’m looking for help with:** Your project here -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Khalid-Tarazi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dFeJCmK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_tarazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-tarazi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@undamag3d786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid.tarazi.dev@gmail.com) 
@@ -13,8 +25,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Khalid-Tarazi&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Tarazi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Khalid-Tarazi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -33,15 +48,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Khalid-Tarazi/Khalid-Tarazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
