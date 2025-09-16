@@ -1,5 +1,8 @@
 ## Greetings👋
 
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
 **Fresh Graduate || Web Developer || Software Engineer**
 
 Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -12,8 +15,12 @@ Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com** For Collaboration/Project o
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
 <!-- -🤔 **I’m looking for help with:** Your project here -->
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Khalid-Tarazi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+<!-- Programmer GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dFeJCmK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_tarazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-tarazi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@undamag3d786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid.tarazi.dev@gmail.com) 
