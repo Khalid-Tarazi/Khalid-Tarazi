@@ -11,7 +11,8 @@
 - 🌱 **I’m currently learning:** API, Bootstrap, a new backend + frontend frameworks.
 - 💬 **Ask me about:** Collaboration, tech support, job offers, interviews.
 - 📫 **How to reach me:** Email or call me.
-- ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, tech. beside that, I am master starcraft 2 player, also rank 1 in Jordan/rank 19 in EU in PUBG Mobile.
+- ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, tech.
+  beside that, I am master starcraft 2 player, also rank 1 in Jordan/rank 19 in EU in PUBG Mobile.
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
 <!-- -🤔 **I’m looking for help with:** Your project here -->
 
