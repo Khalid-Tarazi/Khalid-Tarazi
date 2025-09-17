@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 **I’m currently working on:**  portfolio website, medium project.
-- 🌱 **I’m currently learning:** API, Bootstrap, a new backend + frontend frameworks.
+- 🌱 **I’m currently learning:** API, Bootstrap, a new backend framework, GSAP, React Three Fiber & Drei, Tailwind.
 - 💬 **Ask me about:** Collaboration, tech support, job offers, interviews.
 - 📫 **How to reach me:** Email or call me.
 - ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, tech.
