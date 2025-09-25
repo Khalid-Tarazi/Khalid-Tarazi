@@ -17,6 +17,7 @@
 <!-- -🤔 **I’m looking for help with:** Your project here -->
 
 Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
+My Portfolio 👉 **https://khalid-tarazi-dev.vercel.app/**
 
 
 ## 🏆 GitHub Trophies
