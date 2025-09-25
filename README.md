@@ -15,9 +15,11 @@
   beside that, I am master starcraft 2 player, also rank 1 (JO)/ 19 (EU) in PUBG Mobile.
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
 <!-- -🤔 **I’m looking for help with:** Your project here -->
+For Collaboration/Project or Anything Else. 😊😊
 
-Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
-My Portfolio 👉 **https://khalid-tarazi-dev.vercel.app/**
+Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com**  
+
+My Portfolio 👉 **khalid-tarazi-dev.vercel.app/**
 
 
 ## 🏆 GitHub Trophies
