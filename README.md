@@ -19,7 +19,7 @@ For Collaboration/Project or Anything Else. 😊😊
 
 Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com**  
 
-My Portfolio 👉 **khalid-tarazi-dev.vercel.app/**
+My Portfolio 👉 **[khalid-tarazi-dev.vercel.app/](https://khalid-tarazi-dev.vercel.app/)**
 
 
 ## 🏆 GitHub Trophies
