@@ -38,12 +38,6 @@ My Portfolio 👉 **[khalid-tarazi-dev.vercel.app/](https://khalid-tarazi-dev.ve
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-tarazi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khalid-Tarazi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Khalid-Tarazi&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Tarazi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
