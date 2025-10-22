@@ -7,7 +7,7 @@
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 **I’m currently working on:** gaming website, 3d landing page, deepseek clone, project management system.
+- 🔭 **I’m currently working on:** deepseek clone, project management system.
 - 🌱 **I’m currently learning:** REST APIs, spring boot, GSAP, React Three Fiber & Drei, Tailwind and more.
 - 💬 **Ask me about:** Collaboration, tech support, job offers, interviews.
 - 📫 **How to reach me:** Email or call me.
