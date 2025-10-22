@@ -3,7 +3,7 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-**Fresh Graduate || Web Developer || Software Engineer**
+**Web Developer || Software Engineer || Full-Stack Developer**
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
