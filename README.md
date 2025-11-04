@@ -34,7 +34,7 @@ My Portfolio 👉 **[khalid-tarazi-dev.vercel.app/](https://khalid-tarazi-dev.ve
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khalid-tarazi&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khalid-tarazi&theme=swift&hide_border=false)<br/>
+![](https://github-readme-streak-stats.vercel.app/?user=khalid-tarazi&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-tarazi&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
