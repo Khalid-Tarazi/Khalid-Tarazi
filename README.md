@@ -51,7 +51,7 @@ My Portfolio 👉 **[khalid-tarazi-dev.vercel.app/](https://khalid-tarazi-dev.ve
 ![](https://github-contributor-stats.vercel.app/api?username=Khalid-Tarazi&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
