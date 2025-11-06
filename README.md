@@ -11,8 +11,8 @@
 - 🌱 **I’m currently learning:** REST APIs, spring boot, GSAP, React Three Fiber & Drei, Tailwind and more.
 - 💬 **Ask me about:** Collaboration, tech support, job offers, interviews.
 - 📫 **How to reach me:** Email or call me.
-- ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, tech.
-  beside that, I am master starcraft 2 player, also rank 1 (JO)/ 19 (EU) in PUBG Mobile.
+- ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, & tech.
+  beside that, I am master starcraft 2 player, ranked 1st(JO)/ Top20(EU) in PUBG Mobile(2019).
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
 <!-- -🤔 **I’m looking for help with:** Your project here -->
 For Collaboration/Project or Anything Else. 😊😊
