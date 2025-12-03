@@ -20,7 +20,8 @@ For Collaboration/Project or Anything Else. 😊😊
 Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com**  
 
 My Portfolio 👉 **[Click Here](https://khalid-tarazi-dev.vercel.app/)**
-
+Leetcode     👉 **[Click Here](https://leetcode.com/u/Khalid-Tarazi/)**
+HackerRank   👉 **[Click Here](https://www.hackerrank.com/profile/k_tarazi)**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Khalid-Tarazi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
