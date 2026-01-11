@@ -3,12 +3,12 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-**Web Developer || Software Engineer || Full-Stack Developer**
+**Software Engineer || Full-Stack Web Developer**
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 **I’m currently working on:** Temu clone, patient management system, 3d landing page.
-- 🌱 **I’m currently learning:** C++, REST APIs, spring boot, GSAP, React Three Fiber & Drei, Tailwind and more.
+- 🌱 **I’m currently learning:** C++, REST APIs, Spring Boot, GSAP, Tailwind and more.
 - 💬 **Ask me about:** Collaboration, tech support, job offers, interviews.
 - 📫 **How to reach me:** Email or call me.
 - ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, & tech.
@@ -48,8 +48,6 @@ My Humble Beginning 👉 **[LeetCode](https://leetcode.com/u/Khalid-Tarazi/)**  
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Khalid-Tarazi&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=example&format=true)
