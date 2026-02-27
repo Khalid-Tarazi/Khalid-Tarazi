@@ -10,7 +10,7 @@
 - 🔭 **I’m currently working on:** Temu clone, patient management system, 3d landing page.
 - 🌱 **I’m currently learning:** C++, REST APIs, Spring Boot, GSAP, Tailwind and more.
 - 💬 **Ask me about:** Collaboration, tech support, job offers, interviews.
-- 📫 **How to reach me:** Email or call me.
+- 📫 **How to reach me:** Email me or call me.
 - ⚡ **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, & tech.
   beside that, I am master StarCraft 2 player(2015), ranked 1st(JO)/ Top20(EU) in PUBG Mobile(2019).
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
