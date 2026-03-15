@@ -1,4 +1,5 @@
 ## Greetings!👋
+## Status Update (March 15, 2026): I am currently observing regional routing instability between certain Jordanian ISPs and Vercel's Edge network. If the live projects fails to resolve, please try refreshing or viewing via a different network provider.
 
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
