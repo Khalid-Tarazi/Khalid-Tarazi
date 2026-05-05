@@ -11,7 +11,7 @@ I am currently observing regional routing instability between certain Jordanian 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - **I’m currently working on:** Temu clone, patient management system, 3d landing page.
-- **I’m currently learning:** C++, REST APIs, Spring Boot, GSAP, Tailwind and more.
+- **I’m currently learning:** C++, REST APIs, Spring Boot, .NET Core, GSAP, Tailwind and more.
 - **Ask me about:** Collaboration, tech support, job offers, interviews.
 - **How to reach me:** Email me or call me.
 - **Fun facts about me:** Ranked 1st in SE major in college (class of 2025), interested in competitive programming, reading, & tech.
