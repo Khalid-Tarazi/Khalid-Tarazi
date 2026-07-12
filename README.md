@@ -3,6 +3,10 @@
 #### Status Update (April 15, 2026): 
 I am currently observing regional routing instability between certain Jordanian ISPs and Vercel's Edge network. If the live projects fails to resolve, please try refreshing or viewing via a different network provider until the problem is fixed.
 
+#### Status Update (July 12, 2026)
+I have identified a DNS issue affecting Vercel's Edge Network when accessed through the Jordanian ISP Orange. If the live projects fail to load, a temporary workaround is to refresh the page several times until it resolves. I plan to migrate my projects and portfolio to a custom domain, which should eliminate this issue.
+
+
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
