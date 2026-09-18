@@ -26,7 +26,7 @@ For Collaboration/Project or Anything Else.
 
 Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com**  
 
-My Portfolio 👉 **[Click Here](https://khalid-tarazi-dev.vercel.app/)**
+My Portfolio 👉 **[Click Here](https://tarazi.dev)**
 
 👉 **[LeetCode](https://leetcode.com/u/Khalid-Tarazi/)**  👉 **[HackerRank](https://www.hackerrank.com/profile/k_tarazi)** 
 
