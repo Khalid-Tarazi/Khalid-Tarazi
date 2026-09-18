@@ -24,7 +24,7 @@ I have identified a DNS issue affecting Vercel's Edge Network when accessed thro
 <!-- -🤔 **I’m looking for help with:** Your project here -->
 For Collaboration/Project or Anything Else.
 
-Email Me 👉 ✉️ **khalid.tarazi.dev@gmail.com**  
+Email Me 👉 ✉️ **khalid@tarazi.dev**  
 
 My Portfolio 👉 **[Click Here](https://tarazi.dev)**
 
